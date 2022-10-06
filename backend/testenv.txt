@@ -1,0 +1,8 @@
+WS_URI=<insertAlchemywssUrl>
+LOCAL_WS_URI=https://localhost:8545
+GROUP_FACTORY_ADDRESS_LOCAL=xxxxxxxxxxxxxxxxxx
+GROUP_FACTORY_ADDRESS=xxxxxxxxxxxxxxxxxx
+NODE_ENV=local
+AWS_ACCESS_KEY_ID=xxxxxxxxxxxxxx
+AWS_SECRET_ACCESS_KEY=xxxxxxxxxxxxxxxxxxx
+CHAIN=31337
